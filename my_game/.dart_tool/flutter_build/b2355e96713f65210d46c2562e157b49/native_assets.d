@@ -1,0 +1,1 @@
+ /workspaces/afqfwqfqf/my_game/.dart_tool/flutter_build/b2355e96713f65210d46c2562e157b49/native_assets.yaml: 
